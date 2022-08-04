@@ -8,7 +8,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro num = 0
+		inteiro num
 		cadeia afirmacao1, afirmacao2
 		
 
@@ -40,7 +40,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 361; 
+ * @POSICAO-CURSOR = 206; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
