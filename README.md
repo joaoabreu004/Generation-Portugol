@@ -1,0 +1,2 @@
+# Generation-Portugol
+estudos lógica.
