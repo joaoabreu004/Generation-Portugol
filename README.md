@@ -1,2 +1,2 @@
 # Generation-Portugol 🦅
-estudos lógica utilizando a IDE de ensino PORTUGOL.
+estudos de lógica utilizando a IDE de ensino PORTUGOL.
