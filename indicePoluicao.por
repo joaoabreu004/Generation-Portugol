@@ -30,7 +30,7 @@ programa
 			se(taxaP == 0.40){
 				escreva("Solicite a intimação da empresas empresas do grupo 1 e 2 a suspenderem suas atividades")
 			} senao {
-				se (taxaP == 0.50) {
+				se (taxaP >= 0.50) {
 					escreva("Solicite a intimação da empresas empresas do grupo 1, 2 e 3 a suspenderem suas atividades")
 				} senao{
 					escreva("Indíce de Poluição aceitável")
@@ -44,7 +44,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1253; 
+ * @POSICAO-CURSOR = 1227; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
