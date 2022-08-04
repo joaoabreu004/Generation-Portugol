@@ -1,2 +1,2 @@
 # Generation-Portugol
-estudos lógica.
+estudos lógica utilizando a IDE de ensino PORTUGOL.
